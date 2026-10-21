@@ -1,0 +1,21 @@
+{
+  "name": "mr-imran-bashir-portfolio",
+  "version": "1.0.0",
+  "description": "Interactive Scroll-Driven Executive Portfolio of Mr. Imran Bashir (PMS)",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "serve": "node server.mjs"
+  },
+  "keywords": [
+    "scroll-craft",
+    "portfolio",
+    "civil-service",
+    "scrollytelling",
+    "pms",
+    "punjab"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}
